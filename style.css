@@ -1,0 +1,29 @@
+ nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-buttom: 3rem;
+    possition: absolute;
+    top: 0;
+    width: 100%;
+   
+}
+nav ul li {
+    display: inline;
+    list-style: none;
+    margin-left: 3px;
+    padding: 0;
+    font-size: 0.8rem;
+    background-image: linear-gradient(to right, #eabfff, #bfd5ff) ;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+   
+}
+#list{
+    padding: 70px 10%;
+    line-height: 30px;
+    margin-right: 30px;
+}
+body {
+    background-color:#d5f4ff ;
+}
