@@ -22,7 +22,7 @@
         <mxCell id="m-bqLdBN0owjvYGWmWQs-5" value="Melihat Riwayat" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="m-bqLdBN0owjvYGWmWQs-7" value="Melihat Seluruh Siswa&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="m-bqLdBN0owjvYGWmWQs-7" value="Melihat Data Siswa&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="m-bqLdBN0owjvYGWmWQs-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="m-bqLdBN0owjvYGWmWQs-9" target="m-bqLdBN0owjvYGWmWQs-10">
@@ -43,20 +43,22 @@
         <mxCell id="m-bqLdBN0owjvYGWmWQs-12" value="Mengisi Kehadiran" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="m-bqLdBN0owjvYGWmWQs-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="m-bqLdBN0owjvYGWmWQs-14" target="m-bqLdBN0owjvYGWmWQs-16">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="m-bqLdBN0owjvYGWmWQs-14" value="Melihat Rekapan" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="m-bqLdBN0owjvYGWmWQs-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="m-bqLdBN0owjvYGWmWQs-16" target="m-bqLdBN0owjvYGWmWQs-18">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="m-bqLdBN0owjvYGWmWQs-16" value="Menambah Siswa" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="460" width="120" height="60" as="geometry" />
+          <mxGeometry x="290" y="440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="m-bqLdBN0owjvYGWmWQs-18" value="Melihat Seluruh Siswa" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="600" width="120" height="60" as="geometry" />
+        <mxCell id="m-bqLdBN0owjvYGWmWQs-18" value="Melihat Data Siswa" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m-bqLdBN0owjvYGWmWQs-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="m-bqLdBN0owjvYGWmWQs-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m-bqLdBN0owjvYGWmWQs-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.583;entryY=-0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="m-bqLdBN0owjvYGWmWQs-16" target="m-bqLdBN0owjvYGWmWQs-18">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
